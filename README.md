@@ -2,6 +2,8 @@
 
 ## Requirement
 Create a superhero hunter app using only vanilla javascript.
+#visit the page
+https://prabhakar50501.github.io/Superhero-Hunter/
 
 
 ## Application flow
